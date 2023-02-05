@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chapter 3
+
+    </title>
+</head>
+<body>
+    <header>
+        this is header 
+        <nav>
+            home
+            about 
+        </nav>
+        </header>
+        <main>
+            <!--<p>this is main content</p> -->
+            <section>
+                <a href="https://www.codewithharry.com/"target="_main">Harry's website</a>
+                <img src="image.jfif.avif" alt="harry's website"width="123"height="123">
+
+            </section>
+            <section>
+                <div>
+                <h1>
+                    WHY DANCE PRACTISE
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim harum optio officiis? Assumenda aperiam modi eos perferendis dolore adipisci fugit quia, dolores atque officiis delectus reprehenderit quisquam tempore, deserunt nobis omnis exercitationem. Perspiciatis, natus rerum.
+                    </p>
+                </h1>
+                </div>
+                <div>
+                    div is a example of block elemenet
+                </div>
+                <div>
+                    <h1>why fosscu recruitment</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione sunt voluptas consequuntur pariatur saepe enim tempore cum non quidem amet fugiat quae, dolore laborum omnis, reiciendis maiores. Fuga molestias culpa sapiente. Numquam, consequuntur cupiditate.</p>
+                 </div>
+                 <span>
+                    iam a span tag
+                 </span>
+                 <span>
+                    this is span 2
+                 </span>
+             </section>
+
+         </main>
+            <footer>
+                this id footer 
+            </footer>
